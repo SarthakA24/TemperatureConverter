@@ -6,14 +6,14 @@
 
 **Course 1**: Problem-Solving and Computational Thinking in Java
 
-**Sprint**: Write a simple `Java` program to convert Celsius to Fahrenheit and Fahrenheit to Celsius.
+**Sprint 3**: Use Operators and Conditional Constructs
 
 ---
 
 Problem Statement
 ---
 
-Complete the method in the source code file.
+Write a simple `Java` program to convert Celsius to Fahrenheit and Fahrenheit to Celsius.
 
 ---
 
