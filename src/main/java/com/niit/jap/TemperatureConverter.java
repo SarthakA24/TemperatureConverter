@@ -8,7 +8,7 @@ public class TemperatureConverter {
      * @return the converted temperature in fahrenheit.
      */
     public double convertCelsiusToFahrenheit(double temperatureInCelsius) {
-        return Double.NEGATIVE_INFINITY;
+        return temperatureInCelsius * 1.8 + 32.0;
     }
 
     /**
@@ -18,6 +18,6 @@ public class TemperatureConverter {
      * @return the converted temperature in celsius.
      */
     public double convertFahrenheitToCelsius(double temperatureInFahrenheit) {
-        return Double.POSITIVE_INFINITY;
+        return temperatureInFahrenheit - 32.0 * 0.5556;
     }
 }
