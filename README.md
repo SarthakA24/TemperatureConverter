@@ -6,7 +6,7 @@
 
 **Course 1**: Problem-Solving and Computational Thinking in Java
 
-**Sprint 3**: Use Operators and Conditional Constructs
+**Sprint 4**: Use Operators and Conditional Constructs
 
 ---
 
