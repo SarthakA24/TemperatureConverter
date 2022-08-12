@@ -18,6 +18,6 @@ public class TemperatureConverter {
      * @return the converted temperature in celsius.
      */
     public double convertFahrenheitToCelsius(double temperatureInFahrenheit) {
-        return Double.MAX_VALUE;
+        return (temperatureInFahrenheit-32) / 1.8;
     }
 }
